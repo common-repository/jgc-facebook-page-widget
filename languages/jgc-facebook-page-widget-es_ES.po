@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JGC Facebook Page Plugin\n"
+"POT-Creation-Date: 2017-01-19 05:32+0100\n"
+"PO-Revision-Date: 2017-01-19 05:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jgc-widget-facebook-page-widget.php:20
+#, fuzzy
+msgid "Creates a widget to display Facebook Page Plugin."
+msgstr "Creaa un widget para mostrar el plugin de páginas de Facebook."
+
+#: inc/jgc-widget-facebook-page-widget.php:23
+msgid "Facebook Page Widget"
+msgstr "Facebook Page Widget"
+
+#: inc/jgc-widget-facebook-page-widget.php:46
+msgid "Widget Title"
+msgstr "Título del widget"
+
+#: inc/jgc-widget-facebook-page-widget.php:51
+msgid "Facebook Page URL"
+msgstr "URL de la página de Facebook"
+
+#: inc/jgc-widget-facebook-page-widget.php:56
+msgid "Options"
+msgstr "Opciones"
+
+#: inc/jgc-widget-facebook-page-widget.php:60
+msgid "Hide cover"
+msgstr "Ocultar cabecera"
+
+#: inc/jgc-widget-facebook-page-widget.php:65
+msgid "Show faces"
+msgstr "Mostrar amigos"
+
+#: inc/jgc-widget-facebook-page-widget.php:70
+msgid "Show posts"
+msgstr "Mostrar posts"
+
+#: inc/jgc-widget-facebook-page-widget.php:73
+msgid "Take a look to our Themes"
+msgstr "Échale un vistazo a nuestros Temas"
+
+#~ msgid "Facebook Page Plugin"
+#~ msgstr "Muestra el plugin de páginas de Facebook."
